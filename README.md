@@ -5,7 +5,7 @@ Change a specific color to another color inside a PNG file (in Delphi)
 ### Usage
 
     var
-      Apng	  : TPNGImage;
+      Apng	   : TPNGImage;
       Acv, Acn : array of TColor;
     begin
     
